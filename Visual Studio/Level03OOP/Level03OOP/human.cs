@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Level03OOP
 {
-    class human
+   partial class human
     {
 
         private int _age;
@@ -35,10 +35,26 @@ namespace Level03OOP
             _age = 1;
         }
 
+        //Overload human
+        public human(int StartAge)
+        {
+            Age = StartAge;
+        }
+
+
         //Methord
         public void IncreateAge()
         {
             Age++;
         }
+
+
+        //Overload IncreateAge
+        public void IncreateAge(int year)
+        {
+            Age = Age + year;
+        }
+
+       
     }
 }

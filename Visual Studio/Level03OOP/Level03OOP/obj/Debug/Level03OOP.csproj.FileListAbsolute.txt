@@ -8,3 +8,13 @@ E:\Visual Studio\Level03OOP\Level03OOP\obj\Debug\Level03OOP.csproj.GenerateResou
 E:\Visual Studio\Level03OOP\Level03OOP\obj\Debug\Level03OOP.csproj.CoreCompileInputs.cache
 E:\Visual Studio\Level03OOP\Level03OOP\obj\Debug\Level03OOP.exe
 E:\Visual Studio\Level03OOP\Level03OOP\obj\Debug\Level03OOP.pdb
+C:\Users\montree-ri\Source\Repos\bbmloveverm\CSHARP\Visual Studio\Level03OOP\Level03OOP\bin\Debug\Level03OOP.exe.config
+C:\Users\montree-ri\Source\Repos\bbmloveverm\CSHARP\Visual Studio\Level03OOP\Level03OOP\bin\Debug\Level03OOP.exe
+C:\Users\montree-ri\Source\Repos\bbmloveverm\CSHARP\Visual Studio\Level03OOP\Level03OOP\bin\Debug\Level03OOP.pdb
+C:\Users\montree-ri\Source\Repos\bbmloveverm\CSHARP\Visual Studio\Level03OOP\Level03OOP\obj\Debug\Level03OOP.csprojAssemblyReference.cache
+C:\Users\montree-ri\Source\Repos\bbmloveverm\CSHARP\Visual Studio\Level03OOP\Level03OOP\obj\Debug\Level03OOP.Form1.resources
+C:\Users\montree-ri\Source\Repos\bbmloveverm\CSHARP\Visual Studio\Level03OOP\Level03OOP\obj\Debug\Level03OOP.Properties.Resources.resources
+C:\Users\montree-ri\Source\Repos\bbmloveverm\CSHARP\Visual Studio\Level03OOP\Level03OOP\obj\Debug\Level03OOP.csproj.GenerateResource.cache
+C:\Users\montree-ri\Source\Repos\bbmloveverm\CSHARP\Visual Studio\Level03OOP\Level03OOP\obj\Debug\Level03OOP.csproj.CoreCompileInputs.cache
+C:\Users\montree-ri\Source\Repos\bbmloveverm\CSHARP\Visual Studio\Level03OOP\Level03OOP\obj\Debug\Level03OOP.exe
+C:\Users\montree-ri\Source\Repos\bbmloveverm\CSHARP\Visual Studio\Level03OOP\Level03OOP\obj\Debug\Level03OOP.pdb
